@@ -1,8 +1,17 @@
 DAG checksums
 =============
 
-This repository contains checksums for DAG files for Ethash epochs 0
-to 439, and ETChash epochs 190 to 439.
+This repository contains checksums for DAG files for:
+
+Algorithm	Epochs		Last epoch ends on coin
+---------	---------	--------------------------
+Ethash		  0 - 479	2021-03-24 ETH
+ETChash		190 - 439	2027-02-25 ETC
+Ubqhash		 50 -  99	2038-02-15 UBQ
+
+DAG growth forecasts from minerstat.com/dag-size-calculator, obtained
+2021-07-10. Note that these forecasts are extremely noisy and can jump
+by weeks if not months.
 
 
 File format
