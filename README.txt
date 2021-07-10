@@ -5,7 +5,7 @@ This repository contains checksums for DAG files for:
 
 Algorithm	Epochs		Last epoch ends on coin
 ---------	---------	--------------------------
-Ethash		  0 - 479	2021-03-24 ETH
+Ethash		  0 - 479	2022-03-24 ETH
 ETChash		190 - 439	2027-02-25 ETC
 Ubqhash		 22 -  99	2038-02-15 UBQ
 
