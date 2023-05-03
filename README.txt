@@ -5,12 +5,12 @@ This repository contains checksums for DAG files for:
 
 Algorithm	Epochs		Last epoch ends on coin
 ---------	---------	--------------------------
-Ethash		  0 - 479	2022-03-24 ETH
-ETChash		190 - 439	2027-02-25 ETC
-Ubqhash		 22 -  99	2038-02-15 UBQ
+Ethash		  0 - 479	-
+ETChash		190 - 439	2026-12-06 ETC
+Ubqhash		 22 - 199	2028-12-19 UBQ
 
 DAG growth forecasts from minerstat.com/dag-size-calculator, obtained
-2021-07-10. Note that these forecasts are extremely noisy and can jump
+2023-05-02. Note that these forecasts are extremely noisy and can jump
 by weeks if not months.
 
 
